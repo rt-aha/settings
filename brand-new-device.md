@@ -11,6 +11,9 @@
 - setting initial config
 - setting alias
 
+## github/gitlab
+- set ssh keys
+
 ## vscode
 - download vscode
 - install vscode extensions
